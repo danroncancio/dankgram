@@ -1,2 +1,0 @@
-# dankgram
-Laravel Instagram clone.
