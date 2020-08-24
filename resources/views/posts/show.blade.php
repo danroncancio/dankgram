@@ -71,6 +71,7 @@
             <div class="row">
                 <div class="col">
                     <div class="d-flex">
+                        
                         <span>Post</span>
                     </div>
                 </div>
